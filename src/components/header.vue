@@ -14,8 +14,7 @@
             </div>
             <div class="collapse navbar-collapse navbar-collapse-responsive" id="my-collapse">
                 <ul class="nav navbar-nav">
-                    <li class="dropdown"><a href="#">作品集</a></li>
-                    <li class="dropdown"><a href="#">个人简介</a></li>
+                    <li class="dropdown"><a href="#">待定</a></li>
                 </ul>
                 <ul class="nav navbar-nav pull-right" v-show="!isLogin">
                     <li class="right-nav">
