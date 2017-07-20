@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node app",
-    "build": "cross-env NODE_ENV='prod' webpack --progress -p",
+    "start": "node server.js",
+    "build": "webpack",
     "dev": "webpack-dev-server"
   },
   "keywords": [],
